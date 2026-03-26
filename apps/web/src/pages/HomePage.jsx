@@ -152,7 +152,7 @@ const HomePage = () => {
                   Media & Publishing
                 </h3>
                 <p className="text-gray-700">
-                  PermaTable.site delivers valuable parenting content, resources, and community support for modern families.
+                  PermaTable.site delivers practical permaculture guides, soil health resources, and sustainable gardening tips for regenerative growers.
                 </p>
               </Card>
             </motion.div>

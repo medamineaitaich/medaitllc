@@ -113,15 +113,15 @@ export const BRANDS = [
   {
     name: 'PermaTable.site',
     url: 'https://permatable.site',
-    description: 'A comprehensive parenting blog offering advice, tips, and resources for modern families.',
+    description: 'A practical permaculture blog offering guides, tips, and resources for regenerative gardening and sustainable living.',
     focusArea: 'Media & Publishing',
-    tagline: 'Parenting Wisdom & Resources',
+    tagline: 'Practical Permaculture, From Soil to Table',
     services: [
-      'Parenting Articles & Guides',
-      'Product Reviews',
-      'Family Activity Ideas',
-      'Educational Resources',
-      'Community Support'
+      'Permaculture Guides & Techniques',
+      'Composting & Soil Health',
+      'No-Dig Gardening Methods',
+      'Regenerative Growing Resources',
+      'Sustainable Living Tips'
     ]
   },
   {
@@ -260,7 +260,7 @@ export const WHY_MEDAIT = [
 export const SEO = {
   defaultTitle: 'MEDAIT LLC | Digital Commerce & Media Company',
   titleTemplate: '%s | MEDAIT LLC',
-  defaultDescription: 'MEDAIT LLC is a New Mexico-based digital commerce and media company operating WordPress services, parenting media, and eco-friendly e-commerce brands.',
+  defaultDescription: 'MEDAIT LLC is a New Mexico-based digital commerce and media company operating WordPress services, permaculture media, and eco-friendly e-commerce brands.',
   siteUrl: 'https://medaitllc.com',
   ogImage: '/og-image.jpg'
 };

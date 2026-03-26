@@ -17,9 +17,9 @@ const BrandsPage = () => {
     <>
       <Helmet>
         <title>Our Brands | MEDAIT LLC</title>
-        <meta name="description" content="Explore MEDAIT LLC's portfolio of digital brands: AnfaWord.site (WordPress Services), PermaTable.site (Parenting Media), and AnfaStyles.shop (Eco-Friendly Apparel)." />
+        <meta name="description" content="Explore MEDAIT LLC's portfolio of digital brands: AnfaWord.site (WordPress Services), PermaTable.site (Permaculture & Sustainable Living), and AnfaStyles.shop (Eco-Friendly Apparel)." />
         <meta property="og:title" content="Our Brands | MEDAIT LLC" />
-        <meta property="og:description" content="Explore MEDAIT LLC's portfolio of digital brands: AnfaWord.site (WordPress Services), PermaTable.site (Parenting Media), and AnfaStyles.shop (Eco-Friendly Apparel)." />
+        <meta property="og:description" content="Explore MEDAIT LLC's portfolio of digital brands: AnfaWord.site (WordPress Services), PermaTable.site (Permaculture & Sustainable Living), and AnfaStyles.shop (Eco-Friendly Apparel)." />
         <meta property="og:type" content="website" />
       </Helmet>
 
@@ -134,19 +134,19 @@ const BrandsPage = () => {
                 <ul className="space-y-3">
                   <li className="flex items-start gap-2">
                     <span className="mt-1">•</span>
-                    <span>Evidence-based parenting advice and resources</span>
+                    <span>Evidence-based permaculture guides and soil health resources</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="mt-1">•</span>
-                    <span>Honest product reviews from real parents</span>
+                    <span>Practical composting and no-dig gardening techniques</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="mt-1">•</span>
-                    <span>Supportive community for modern families</span>
+                    <span>Community for sustainable and regenerative growers</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="mt-1">•</span>
-                    <span>Regular updates with fresh, relevant content</span>
+                    <span>Regular updates with fresh, seasonal content</span>
                   </li>
                 </ul>
                 <p className="mt-6 text-sm italic">

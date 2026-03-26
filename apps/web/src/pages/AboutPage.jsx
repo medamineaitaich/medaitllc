@@ -64,7 +64,7 @@ const AboutPage = () => {
                   Based in New Mexico, USA, we've built a diverse portfolio of digital brands that reflect our core values: sustainability, quality, innovation, and transparency. Each brand we operate serves a unique purpose while maintaining our high standards of excellence.
                 </p>
                 <p>
-                  From WordPress development services to parenting media and eco-friendly e-commerce, our brands demonstrate our versatility and dedication to serving different communities with specialized expertise.
+                  From WordPress development services to permaculture media and eco-friendly e-commerce, our brands demonstrate our versatility and dedication to serving different communities with specialized expertise.
                 </p>
                 <p>
                   Today, MEDAIT LLC stands as a testament to what's possible when technical skill meets creative vision and environmental consciousness. We continue to grow, innovate, and contribute positively to the digital landscape.
