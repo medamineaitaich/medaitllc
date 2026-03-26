@@ -111,8 +111,8 @@ export const BRANDS = [
     ]
   },
   {
-    name: 'LikeParents.com',
-    url: 'https://likeparents.com',
+    name: 'PermaTable.site',
+    url: 'https://permatable.site',
     description: 'A comprehensive parenting blog offering advice, tips, and resources for modern families.',
     focusArea: 'Media & Publishing',
     tagline: 'Parenting Wisdom & Resources',

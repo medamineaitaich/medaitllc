@@ -64,7 +64,7 @@ const CookiesPage = () => {
                     Cookies are small text files that are placed on your device when you visit a website. They are widely used to make websites work more efficiently and provide information to website owners.
                   </p>
                   <p className="text-gray-700">
-                    This Cookie Policy explains how MEDAIT LLC and its brands (AnfaWord.site, LikeParents.com, and AnfaStyles.shop) use cookies and similar tracking technologies on our websites.
+                    This Cookie Policy explains how MEDAIT LLC and its brands (AnfaWord.site, PermaTable.site, and AnfaStyles.shop) use cookies and similar tracking technologies on our websites.
                   </p>
                 </section>
 

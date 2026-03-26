@@ -61,7 +61,7 @@ const TermsPage = () => {
                 <section className="mb-8">
                   <h2 className="text-2xl font-bold text-medait-dark mb-4">1. Acceptance of Terms</h2>
                   <p className="text-gray-700 mb-4">
-                    By accessing or using any services, websites, or brands operated by MEDAIT LLC (including but not limited to AnfaWord.site, LikeParents.com, and AnfaStyles.shop), you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use our services.
+                    By accessing or using any services, websites, or brands operated by MEDAIT LLC (including but not limited to AnfaWord.site, PermaTable.site, and AnfaStyles.shop), you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use our services.
                   </p>
                   <p className="text-gray-700">
                     These terms constitute a legally binding agreement between you and MEDAIT LLC, a Limited Liability Company registered in New Mexico, USA.

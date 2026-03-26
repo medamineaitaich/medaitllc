@@ -152,7 +152,7 @@ const HomePage = () => {
                   Media & Publishing
                 </h3>
                 <p className="text-gray-700">
-                  LikeParents.com delivers valuable parenting content, resources, and community support for modern families.
+                  PermaTable.site delivers valuable parenting content, resources, and community support for modern families.
                 </p>
               </Card>
             </motion.div>

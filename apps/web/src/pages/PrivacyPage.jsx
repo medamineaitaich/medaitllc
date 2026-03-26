@@ -61,7 +61,7 @@ const PrivacyPage = () => {
                 <section className="mb-8">
                   <h2 className="text-2xl font-bold text-medait-dark mb-4">1. Introduction</h2>
                   <p className="text-gray-700 mb-4">
-                    MEDAIT LLC ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our websites or use our services, including AnfaWord.site, LikeParents.com, and AnfaStyles.shop.
+                    MEDAIT LLC ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our websites or use our services, including AnfaWord.site, PermaTable.site, and AnfaStyles.shop.
                   </p>
                   <p className="text-gray-700">
                     By using our services, you consent to the data practices described in this policy. If you do not agree with this policy, please do not use our services.

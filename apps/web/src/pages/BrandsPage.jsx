@@ -17,9 +17,9 @@ const BrandsPage = () => {
     <>
       <Helmet>
         <title>Our Brands | MEDAIT LLC</title>
-        <meta name="description" content="Explore MEDAIT LLC's portfolio of digital brands: AnfaWord.site (WordPress Services), LikeParents.com (Parenting Media), and AnfaStyles.shop (Eco-Friendly Apparel)." />
+        <meta name="description" content="Explore MEDAIT LLC's portfolio of digital brands: AnfaWord.site (WordPress Services), PermaTable.site (Parenting Media), and AnfaStyles.shop (Eco-Friendly Apparel)." />
         <meta property="og:title" content="Our Brands | MEDAIT LLC" />
-        <meta property="og:description" content="Explore MEDAIT LLC's portfolio of digital brands: AnfaWord.site (WordPress Services), LikeParents.com (Parenting Media), and AnfaStyles.shop (Eco-Friendly Apparel)." />
+        <meta property="og:description" content="Explore MEDAIT LLC's portfolio of digital brands: AnfaWord.site (WordPress Services), PermaTable.site (Parenting Media), and AnfaStyles.shop (Eco-Friendly Apparel)." />
         <meta property="og:type" content="website" />
       </Helmet>
 
@@ -121,7 +121,7 @@ const BrandsPage = () => {
               </div>
             </motion.div>
 
-            {/* LikeParents.com */}
+            {/* PermaTable.site */}
             <motion.div
               className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center"
               initial="initial"
@@ -158,7 +158,7 @@ const BrandsPage = () => {
                   Media & Publishing
                 </div>
                 <h2 className="text-3xl font-bold text-medait-dark mb-4">
-                  LikeParents.com
+                  PermaTable.site
                 </h2>
                 <p className="text-lg text-gray-700 mb-6">
                   {BRANDS[1].description}
